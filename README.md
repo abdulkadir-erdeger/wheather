@@ -1,4 +1,4 @@
 # wheather
 
 Tanıtım: 
-![alt text](https://www.linkpicture.com/q/weather_3.png "Logo Title Text 1")
+![alt text](https://lh3.googleusercontent.com/d/1TfaY3a5Q1TLXpJ_uvt-H1Nh_pcNi20rr "Logo Title Text 1")
